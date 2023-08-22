@@ -8,7 +8,7 @@
           <ul>
             <li>
  Computers</li>
-            <li>Ethical Hacking (Read Team)</li>
+            <li>Ethical Hacking (Red Team)</li>
             <li>
  Various Programming Languages: </li>
             <li>Python</li>
