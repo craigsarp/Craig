@@ -9,8 +9,8 @@
             <li>
  Computers</li>
             <li>Ethical Hacking (Red Team)</li>
-            <li>
- Programming Languages: </li>
+            <li><b>
+ Programming Languages: </b></li>
             <li>Python</li>
             <li>JavaScript</li>
             <li>Many more but these are main.</li>
