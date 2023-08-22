@@ -5,18 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-  <title>Unknown User 7310 - Portfolio</title>
-  <style>
-    body {
-      background-color: #2c3e50;
-    }
-    .portfolio-box {
-      background-color: #34495e;
-      border-radius: 20px;
-      padding: 30px;
-      color: white;
-    }
-  </style>
 </head>
 <body>
   <div class="container mt-5">
