@@ -16,16 +16,6 @@
           </ul>
           <p>
  Contact - amendable_domelike975@simplelogin.com
-          
-C=7
-
-R=3
-
-A=10
-
-I=1
-
-G=0
           </p>
         </div>
       </div>
