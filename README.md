@@ -10,7 +10,7 @@
  Computers</li>
             <li>Ethical Hacking (Red Team)</li>
             <li>Python</li>
-            <li>JavaScript</li>
+            <li>C++</li>
             <li>
  Listening To Music</li>
           </ul>
