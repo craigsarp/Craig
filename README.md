@@ -22,4 +22,4 @@
     </div>
   </div>
 </body>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unknownuser7310)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=python,c++)](https://skillicons.dev)
