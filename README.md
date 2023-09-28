@@ -3,7 +3,7 @@
       <div>
         <div>
           <h1>Unknown User 7310 👨🏻‍💻</h1>
-          <p>Age: 15</p>
+          <p>Age: None</p>
           <h3>Skills And Hobbies/Interests:</h3>
           <ul>
             <li>
