@@ -2,7 +2,7 @@
     <div>
       <div>
         <div>
-          <h1>Craig Sarpong 👨🏻‍💻</h1>
+          <h1>Craig 👨🏻‍💻</h1>
           <h3>Skills And Hobbies/Interests:</h3>
           <ul>
             <li>
